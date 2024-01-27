@@ -4,7 +4,7 @@
 <div>
   <a href="https://github.com/FernandoGLima">
   <img height="200em" src=https://github-readme-stats.vercel.app/api?username=FernandoGLima&theme=radicalcount_private=true&show_icons=true"/>
-  <img height"300em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoGlima&theme=radical&layout=compact"/>  
+  <img height"300em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoGlima&layout=compact&theme=dark=true"/>  
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Fer-Latex" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
