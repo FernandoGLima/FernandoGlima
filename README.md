@@ -4,6 +4,7 @@
   ### 📚 Studying: Machine Learning and Computer Science Theory (Graph theory)
   ### 📄 Researcher in Few-Shot Learning applied to disease classification in retinal images
   ### 💻 Open Source Contributor (Kernel Linux, Git and GNOME)
+  ### 🎈 Competitive Programming
 ## Technologies  
 <div style="display: inline_block"><br>
   <img align="center" alt="Fer-Latex" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
