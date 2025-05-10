@@ -1,7 +1,9 @@
   # Fernando Lima
   ## IME - University of São Paulo
   ### ✨Computer Science undergraduate student
-  ### 📚 Studying Machine Learning specifically in Few-shot Learning, Computer Science Theory and Open Source Contributor (Kernel Linux, Git and GNOME)
+  ### 📚 Studying: Machine Learning specifically in Few-shot Learning; 
+  ### Computer Science Theory;
+  ### Open Source Contributor (Kernel Linux, Git and GNOME)
 <div>
   <a href="https://github.com/FernandoGLima">
   <img height="200em" src=https://github-readme-stats.vercel.app/api?username=FernandoGLima&theme=dark&count_private=true&show_icons=true&count_private=true"/>
