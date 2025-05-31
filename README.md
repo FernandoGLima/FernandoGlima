@@ -38,8 +38,11 @@
 ## Contact
 
 <div>
-  <a href="mailto:contato@fernandolimabusiness@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=fernandolimabusiness@gmail.com&logoColor=white" target="_blank">
-    <a/>
-  <a href="mailto:contato@fernandoglima@usp.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=fernandoglima@usp.br&logoColor=white" target="_blank">
-    <a/>
+  <a href="mailto:contato.fernandolimabusiness@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Gmail">
+  </a>
+
+  <a href="mailto:contato.fernandoglima@usp.br">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email USP">
+  </a>
 </div>
