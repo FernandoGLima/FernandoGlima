@@ -39,10 +39,9 @@
 
 <div>
   <a href="mailto:contato.fernandolimabusiness@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Gmail">
-  </a>
-
-  <a href="mailto:contato.fernandoglima@usp.br">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email USP">
-  </a>
+  <img src="https://img.shields.io/badge/Email%20Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Gmail">
+</a>
+<a href="mailto:contato.fernandoglima@usp.br">
+  <img src="https://img.shields.io/badge/Email%20USP-00427E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email USP">
+</a>
 </div>
