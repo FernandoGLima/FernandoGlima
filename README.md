@@ -40,17 +40,10 @@
 
 ## GitHub Stats
 
-<p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=FernandoGLima&theme=dark&hide_border=true"
-  />
-
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoGLima&layout=compact&theme=dark&hide_border=true"
-  />
-</p>
+<div>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=FernandoGlima&show_icons=true&theme=tokyonight" alt="My Stats" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=FernandoGlima&langs_count=10&theme=tokyonight" alt="My Top Langs" height="195px" />
+</div>
 
 ## Contact
 
