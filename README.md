@@ -12,69 +12,27 @@
 
 ## Technologies
 
-<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
-
-  <img align="center" alt="C" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-
-  <img align="center" alt="Linux" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-
-  <img align="center" alt="Git" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
-  <img align="center" alt="C++" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
-
-  <img align="center" alt="Python" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-
-  <img align="center" alt="Go" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-
-  <img align="center" alt="PyTorch" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-
-  <img align="center" alt="TensorFlow" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-
-  <img align="center" alt="Keras" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" />
-
-  <img align="center" alt="Scikit Learn" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
-
-  <img align="center" alt="Pandas" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-
-  <img align="center" alt="R" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-
-  <img align="center" alt="Bash" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-
-  <img align="center" alt="Prolog" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prolog/prolog-original.svg" />
-
-  <img align="center" alt="React" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-
-  <img align="center" alt="HTML5" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-
-  <img align="center" alt="CSS3" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-
-  <img align="center" alt="MySQL" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-
-  <img align="center" alt="MATLAB" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-
-  <img align="center" alt="LaTeX" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
-
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" />
+</p>
 
 ---
 
@@ -82,17 +40,13 @@
 
 <div align="center">
 
-  <a href="https://github.com/FernandoGLima">
-    <img height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=FernandoGLima&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=FernandoGLima&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
 
-    <img height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoGLima&layout=compact&langs_count=8&theme=dark" />
-  </a>
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoGLima&layout=compact&langs_count=8&theme=dark" />
 
 </div>
-
----
 
 ## Contact
 
